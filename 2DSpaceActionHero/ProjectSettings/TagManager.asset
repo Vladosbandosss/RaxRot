@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Meteor
+  - Enemy
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerShoot
+  - Enemy
+  - EnemyShoot
+  - Meteor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 480120285
+    locked: 0
+  - name: Bullets
+    uniqueID: 1197119207
+    locked: 0
+  - name: Player
+    uniqueID: 3804330227
+    locked: 0
+  - name: FX
+    uniqueID: 62847617
+    locked: 0
