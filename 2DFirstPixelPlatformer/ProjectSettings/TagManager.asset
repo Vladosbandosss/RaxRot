@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CheckPoint
+  - MovingPlatform
+  - Enemy
+  - Door
+  - Boss
+  - SwingRotate
+  - RotateBossObg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3581787253
+    locked: 0
+  - name: Decor
+    uniqueID: 1048925757
+    locked: 0
+  - name: Bullet
+    uniqueID: 2045813137
+    locked: 0
+  - name: Ground
+    uniqueID: 475112151
+    locked: 0
+  - name: Enemy
+    uniqueID: 1499625737
+    locked: 0
+  - name: Player
+    uniqueID: 2322894521
+    locked: 0
+  - name: FX
+    uniqueID: 3526226293
+    locked: 0
